@@ -1,7 +1,7 @@
 # Packet-Sniffer-Tool
 A packet sniffer is a tool used for monitoring and analyzing network traffic by intercepting data packets as they traverse a network. It can capture and log the details of various network protocols (e.g., TCP, UDP, HTTP, etc.), and is often used for network diagnostics, troubleshooting, security monitoring, and even by attackers to eavesdrop on data.
 
-![image](https://github.com/user-attachments/assets/b1cb4f9f-40a6-4130-8446-74c93a026b5a)
+![image](https://github.com/user-attachments/assets/c477fa66-a4ea-4932-9e32-903231d34142)
 
 
 # How This Code Works 
