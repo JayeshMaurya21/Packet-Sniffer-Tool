@@ -1,6 +1,9 @@
 # Packet-Sniffer-Tool
 A packet sniffer is a tool used for monitoring and analyzing network traffic by intercepting data packets as they traverse a network. It can capture and log the details of various network protocols (e.g., TCP, UDP, HTTP, etc.), and is often used for network diagnostics, troubleshooting, security monitoring, and even by attackers to eavesdrop on data.
 
+![image](https://github.com/user-attachments/assets/b1cb4f9f-40a6-4130-8446-74c93a026b5a)
+
+
 # How This Code Works 
 This code implements a TCP Packet Sniffer using Python and the Scapy library. Here's a brief rundown of how the code works:
 
